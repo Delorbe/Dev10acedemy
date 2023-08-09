@@ -1,7 +1,7 @@
 public class Exercise24 {
 
     public static void main(String[] args) {
-        String knockKnock = "Knack, knack. \n"
+        String knockKnock = "Knacck, knack. \n"
                 + "Wha's there?\n"
                 + "Interrupting caw.\n"
                 + "Interrupti...\n"
