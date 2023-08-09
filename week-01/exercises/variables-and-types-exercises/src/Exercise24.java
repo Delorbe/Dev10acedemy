@@ -6,6 +6,8 @@ public class Exercise24 {
                 + "Interrupting caw.\n"
                 + "Interrupti...\n"
                 + "Maa!";
+        String newVariable = knockKnock.replace("a", "o");
+        System.out.println(newVariable);
 
         // 1. Use the replace method to replace all occurrences of "a" with "o" from knockKnock.
         // 2. Assign the result to a new variable.

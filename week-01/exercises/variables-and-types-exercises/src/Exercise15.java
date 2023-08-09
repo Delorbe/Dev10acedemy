@@ -3,7 +3,7 @@ public class Exercise15 {
     public static void main(String[] args) {
 
         int value = 130;
-        boolean inRange = value >= 10 && value <= 20 || value >= 110 && value <= 120;
+        boolean inRange = (value >= 10 && value <= 20) || (value >= 110 && value <= 120);
         System.out.println(inRange);
 
         // 1. Declare a boolean variable inRange.

@@ -6,7 +6,10 @@ public class Exercise17 {
         // 3. Print the result.
         // Expected Output: "happy moon"
 
+
         String adjective = "happy";
         String noun = "moon";
+        String phrase = adjective + " " + noun;
+        System.out.println(phrase);
     }
 }
